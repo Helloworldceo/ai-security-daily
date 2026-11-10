@@ -4,10 +4,11 @@ An automated daily digest of new arXiv research on AI/LLM security: prompt injec
 
 A GitHub Action runs every day, queries arXiv (cs.CR), skips papers already covered, and commits a dated digest to [`digests/`](digests/).
 
-**Papers tracked so far:** 10 · **Last run:** 2026-11-09
+**Papers tracked so far:** 20 · **Last run:** 2026-11-10
 
 ## Recent digests
 
+- [2026-11-10](digests/2026-11-10.md)
 - [2026-11-09](digests/2026-11-09.md)
 
 ---
