@@ -4,10 +4,11 @@ An automated daily digest of new arXiv research on AI/LLM security: prompt injec
 
 A GitHub Action runs every day, queries arXiv (cs.CR), skips papers already covered, and commits a dated digest to [`digests/`](digests/).
 
-**Papers tracked so far:** 93 · **Last run:** 2026-11-26
+**Papers tracked so far:** 93 · **Last run:** 2026-11-27
 
 ## Recent digests
 
+- [2026-11-27](digests/2026-11-27.md)
 - [2026-11-26](digests/2026-11-26.md)
 - [2026-11-25](digests/2026-11-25.md)
 - [2026-11-24](digests/2026-11-24.md)
@@ -21,7 +22,6 @@ A GitHub Action runs every day, queries arXiv (cs.CR), skips papers already cove
 - [2026-11-16](digests/2026-11-16.md)
 - [2026-11-15](digests/2026-11-15.md)
 - [2026-11-14](digests/2026-11-14.md)
-- [2026-11-13](digests/2026-11-13.md)
 
 ---
 Maintained by [@Helloworldceo](https://github.com/Helloworldceo) · companion to [AI-Agent-Red-Team](https://github.com/Helloworldceo/AI-Agent-Red-Team)
